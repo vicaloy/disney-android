@@ -2,6 +2,8 @@
 
 This Android project is a Disney-themed app built using Jetpack Compose, ViewModels, Flows, Clean Architecture, and Hilt. The app fetches data from the Disney API and displays a list of Disney characters, movies, or related content. It follows modern Android development practices to ensure scalability, maintainability, and testability.
 
+- URL: https://api.disneyapi.dev
+
 ## 🚀 Key Features
 
 - Jetpack Compose:
